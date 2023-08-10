@@ -1,0 +1,2 @@
+#include <studio.h>
+gcc -E $CFILE -o c
